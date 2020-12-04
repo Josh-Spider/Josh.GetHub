@@ -1,24 +1,7 @@
 ## Sea bienvenido
-<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  intent="WELCOME"
-  chat-title="GLOB"
-  agent-id="5bf4ed50-4e13-4f95-aee9-29a7a8b8b5c4"
-  language-code="es"
-></df-messenger>
-<div>Teachable Machine Image Model</div>
-<button type="button" onclick="init()">Start</button>
-<div id="webcam-container"></div>
-<div id="label-container"></div>
-<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
-<script type="text/javascript">
-    // More API functions here:
-    // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
-
+<iframe height="430" width="350" src="https://bot.dialogflow.com/5bf4ed50-4e13-4f95-aee9-29a7a8b8b5c4"></iframe>
     // the link to your model provided by Teachable Machine export panel
     const URL = "./my_model/";
-
     let model, webcam, labelContainer, maxPredictions;
 
     // Load the image model and setup the webcam
