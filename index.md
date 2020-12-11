@@ -3,8 +3,8 @@
 ## Que son las redes neuroanles
 Origen y desarrollo del concepto de Red Neuronal.. Las primeras investigaciones sobre el tema, datan apr o ximadamente
 ## Cuál es su relacion con la tería de grafoas
-Incluir imagenes
-
+Sea V el conjunto no vacío de vértices o nodos y E el conjunto de lados o aristas (pares de vértices); se dice que G es un grafo, si G= (V, E) es una estructura de datos compuesta por esos dos conjuntos V y E que forman un conjunto de pares ordenados o desordenados de vértices o nodos. Los pares de vértices van entre paréntesis y los pares desordenados, pondrán entre llaves.
+![Grafo](https://image.slidesharecdn.com/teoriadegrafos-120519092421-phpapp01/95/teoria-de-grafos-9-728.jpg%3Fcb%3D1416524540)
 
 <img src="https://andromedavaluecapital.com/wp-content/uploads/2018/02/neuronal-network-1024x585.jpg" alt="Red neuronal">
 
