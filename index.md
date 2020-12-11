@@ -1,8 +1,4 @@
 ## Sea bienvenido
-<iframe height="430" width="350" src="https://bot.dialogflow.com/5bf4ed50-4e13-4f95-aee9-29a7a8b8b5c4"></iframe>
-    // the link to your model provided by Teachable Machine export panel
-    const URL = "./my_model/";
-    let model, webcam, labelContainer, maxPredictions;
 ## Este proyecto fue posible gracias a a las redes neuronales
 ## Que son las redes neuroanles
 ## Cuál es su relacion con la tería de grafoas
