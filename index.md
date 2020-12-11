@@ -10,7 +10,7 @@ Incluir imagenes
 ![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
 
 
-https://image.slidesharecdn.com/redesneuronales-090531152733-phpapp02/95/redes-neuronales-2-728.jpg?cb=1243784481
+<img src="https://image.slidesharecdn.com/redesneuronales-090531152733-phpapp02/95/redes-neuronales-2-728.jpg?cb=1243784481">
 
 ![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
     // Load the image model and setup the webcam
