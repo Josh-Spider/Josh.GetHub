@@ -1,7 +1,8 @@
 ## Sea bienvenido
 ## Este proyecto fue posible gracias a a las redes neuronales
 ## Que son las redes neuroanles
-Origen y desarrollo del concepto de Red Neuronal.. Las primeras investigaciones sobre el tema, datan apr o ximadamente
+Origen y desarrollo del concepto de Red Neuronal.. Las primeras investigaciones sobre el tema, datan apr o ximadamente, las redes neuronales no tienen un concepto demasiado complicado detrás de ellas. El nombre, como podéis imaginar, viene de la idea de imitar el funcionamiento de las redes neuronales de los organismos vivos: un conjunto de neuronas conectadas entre sí y que trabajan en conjunto, sin que haya una tarea concreta para cada una. Con la experiencia, las neuronas van creando y reforzando ciertas conexiones para "aprender" algo que se queda fijo en el tejido.
+![Grafo](https://www.iartificial.net/wp-content/uploads/2019/02/IA.jpg)
 ## Cuál es su relacion con la tería de grafoas
 Sea V el conjunto no vacío de vértices o nodos y E el conjunto de lados o aristas (pares de vértices); se dice que G es un grafo, si G= (V, E) es una estructura de datos compuesta por esos dos conjuntos V y E que forman un conjunto de pares ordenados o desordenados de vértices o nodos. Los pares de vértices van entre paréntesis y los pares desordenados, pondrán entre llaves.
 ![Grafo](https://image.slidesharecdn.com/teoriadegrafos-120519092421-phpapp01/95/teoria-de-grafos-9-728.jpg%3Fcb%3D1416524540)
